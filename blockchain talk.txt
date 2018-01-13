@@ -1,0 +1,22 @@
+Blockchain sites
+ - https://www.youtube.com/watch?v=bBC-nXj3Ng4               < blockchain explanation
+ - http://portal.azure.com                                   < blockchain setup
+ - http://bcl6lq6tdgny.australiaeast.cloudapp.azure.com/     < my blockchain
+ - http://bcl6lq6tdgny.australiaeast.cloudapp.azure.com:8545 < RPC Endpoint
+ - https://metamask.io/                                      < wallet
+ - http://tokenfactory.surge.sh/#/factory                    < deploy a contract
+ - 0x880bd7409e47f043a84262d82f1d09088df4b9f1                < JCoin  (JJX)
+ - http://tokenfactory.surge.sh/#/token/0x880bd7409e47f043a84262d82f1d09088df4b9f1 < mgmt
+ - npm install -g ganache-cli                                < testrpc
+ - npm install -g truffle                                    < truffle
+ - npm install -g windows-build-tools
+ - truffle init
+ - truffle compile
+ - ganache-cli
+ - truffle migrate --reset
+ - truffle console
+ - var hw
+ - Hello.deployed().then(function(deployed){hw=deployed;});
+ - hw.SayHello.call()
+
+ bamboo gun youth kite impulse donor giggle debris vibrant pottery silent sun
