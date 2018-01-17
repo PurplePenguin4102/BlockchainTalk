@@ -20,3 +20,12 @@ Blockchain sites
  - hw.SayHello.call()
 
  bamboo gun youth kite impulse donor giggle debris vibrant pottery silent sun
+
+ - https://www.cryptokitties.co/marketplace                 < online shop
+
+ - http://truffleframework.com/                             < truffle
+ - http://truffleframework.com/ganache/                     < ganache
+ - https://solidity.readthedocs.io/en/develop/              < solidity
+ - https://code.visualstudio.com/                           < visual code
+ - https://nodejs.org/en/                                   < nodejs
+ - https://ethereum.org/cli                                 < geth
